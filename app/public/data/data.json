@@ -1,5 +1,69 @@
 {
-  "boards": [],
+  "boards": [
+    {
+      "name": "Board name updated from request",
+      "user": 0,
+      "id": 21311818169,
+      "starred": false,
+      "created": "2022-08-27"
+    },
+    {
+      "name": "launching a rocket",
+      "user": 0,
+      "id": 79993899300,
+      "starred": false,
+      "created": "2022-08-27"
+    },
+    {
+      "name": "launching a rocket",
+      "user": 0,
+      "id": 62365765255,
+      "starred": false,
+      "created": "2022-08-27"
+    },
+    {
+      "name": "launching a rocket",
+      "user": 0,
+      "id": 8757104399,
+      "starred": false,
+      "created": "2022-08-27"
+    },
+    {
+      "name": "launching a rocket",
+      "user": 0,
+      "id": 29750128861,
+      "starred": false,
+      "created": "2022-08-27"
+    },
+    {
+      "name": "launching a rocket",
+      "user": 0,
+      "id": 4296483112,
+      "starred": false,
+      "created": "2022-08-27"
+    },
+    {
+      "name": "launching a rocket",
+      "user": 0,
+      "id": 65445877271,
+      "starred": false,
+      "created": "2022-08-27"
+    },
+    {
+      "name": "launching a rocket",
+      "user": 0,
+      "id": 68437522773,
+      "starred": false,
+      "created": "2022-08-27"
+    },
+    {
+      "name": "launching a rocket",
+      "user": 0,
+      "id": 64973249150,
+      "starred": false,
+      "created": "2022-08-27"
+    }
+  ],
   "tasks": [],
   "users": [],
   "lists": []
